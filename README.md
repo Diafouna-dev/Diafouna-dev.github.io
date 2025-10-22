@@ -50,15 +50,15 @@
         <div>
             <footer>
                 <figure>
-                    <img src="image/image.jpg" alt="Pont" style="width:100%;height:auto;border-radius:8px;">
+                    <img src="image.jpg" alt="Pont" style="width:30%;height:auto;border-radius:8px;">
                     <figcaption>image d'illustration.</figcaption>
                 </figure>
                 <figure>
-                    <img src="image/peroquet.jpg" alt="Peroquet" style="width:100%;height:auto;border-radius:8px;">
+                    <img src="peroquet.jpg" alt="Peroquet" style="width:30%;height:auto;border-radius:8px;">
                     <figcaption>image d'un peroquet.</figcaption>
                 </figure>
                 <figure>
-                    <img src="image/photo.jpg" alt="Pont" style="width:100%;height:auto;border-radius:8px;">
+                    <img src="photo.jpg" alt="Pont" style="width:30%;height:auto;border-radius:8px;">
                     <figcaption>photo.</figcaption>
                 </figure>
                 <a href="https://www.google.com">recherche</a>
