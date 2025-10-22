@@ -37,6 +37,16 @@
                 </article>
             
         </div>
+        <section>
+    <h2>Achievements</h2>
+    <p>
+        Progress in this course (100%) <progress  value="100" max="100"></progress>
+        <br>
+        Progress in the Specialization capstone (20%) <progress  value="20" max="100"></progress>
+        <br>
+        Progress in life goals (79%) <progress  value="79" max="100"></progress>
+    </p>
+  </section>
         <div>
             <footer>
                 <figure>
