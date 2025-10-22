@@ -1,5 +1,3 @@
-# Diafouna-dev.github.io
-site web pour information
 <!DOCTYPE html>
 <html lang="fr">
 <head>
