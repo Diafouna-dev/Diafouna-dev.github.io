@@ -38,7 +38,7 @@
             
         </div>
         <section>
-    <h2>Achievements</h2>
+    <h2>Achives</h2>
     <p>
         Progression en css(100%) <progress  value="100" max="100"></progress>
         <br>
