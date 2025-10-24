@@ -32,7 +32,6 @@
                 <article>
                     <header>
                         <h3 id="article-1">Debat politique</h3>
-                        <p class="meta">Publié le <time datetime="2025-10-22">22 octobre 2025</time> — par <a href="#a-propos">Barry</a></p>
                     </header>
                 </article>
             
@@ -50,18 +49,19 @@
         <div>
             <footer>
                 <figure>
-                    <img src="image.jpg" alt="Pont" style="width:30%;height:auto;border-radius:8px;">
+                    <img src="image/image.jpg" alt="Pont" style="width:30%;height:auto;border-radius:8px;">
                     <figcaption>image d'illustration.</figcaption>
                 </figure>
                 <figure>
-                    <img src="peroquet.jpg" alt="Peroquet" style="width:30%;height:auto;border-radius:8px;">
+                    <img src="image/peroquet.jpg" alt="Peroquet" style="width:30%;height:auto;border-radius:8px;">
                     <figcaption>image d'un peroquet.</figcaption>
                 </figure>
                 <figure>
-                    <img src="photo.jpg" alt="Pont" style="width:30%;height:auto;border-radius:8px;">
-                    <figcaption>photo.</figcaption>
+                    <img src="image/photo.jpg" alt=" au bord de la plage" style="width:30%;height:auto;border-radius:8px;">
+                    <figcaption>au bord de la plage.</figcaption>
                 </figure>
-                <a href="https://www.google.com">recherche</a>
+                <a href="https://www.google.com">Recherche</a>
+                <p class="meta">Publié le <time datetime="2025-10-22">22 octobre 2025</time> — par <a href="#a-propos">Barry</a></p>
             </footer>
         </div>
     </body>
