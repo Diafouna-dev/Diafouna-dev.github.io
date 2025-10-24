@@ -69,15 +69,15 @@
     <h3>Galerie d’illustrations</h3>
     <div class="galerie">
       <figure>
-        <img src="image/image.jpg" alt="Pont africain">
+        <img src="https://diafouna-dev.github.io/image/image.jpg" alt="Pont africain">
         <figcaption>Pont moderne en Afrique</figcaption>
       </figure>
       <figure>
-        <img src="image/peroquet.jpg" alt="Perroquet coloré">
+        <img src="https://diafouna-dev.github.io/image/peroquet.jpg" alt="Perroquet coloré">
         <figcaption>Perroquet d’Afrique</figcaption>
       </figure>
       <figure>
-        <img src="image/photo.jpg" alt="Bord de plage">
+        <img src="https://diafouna-dev.github.io/image/photo.jpg" alt="Bord de plage">
         <figcaption>Moment de détente au bord de la plage</figcaption>
       </figure>
     </div>
