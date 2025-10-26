@@ -1,0 +1,29 @@
+h1{
+    color: yellow;
+    text-align: center;
+}
+body{
+    background-color: rgba(155, 155, 233, 0.867);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+p{
+    color: black;
+    text-align: justify;
+    width: 80%;
+    margin: 10px auto
+}
+a {
+    color: #e22a2a;
+    text-decoration: none;
+}
+nav {
+    display: flex;
+    justify-content: left;
+    background-color: #11da5e;
+    padding: 10px 0;
+    line-height: 1.6;
+}
