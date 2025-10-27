@@ -22,12 +22,13 @@
     <nav>
        <ul>
         <li><a href="#politique">Politique</a></li>
-        <a href="page2.html" target="_blank"> cliquez ici en savoir plus
         <li><a href="#economie">Économie</a></li>
         <li><a href="#societe">Société</a></li>
         <li><a href="#culture">Culture</a></li>
       </ul>
     </nav>
+    <h2><a href="page2.html" target="_blank"> Présentation des personnalités politiques
+</h2>
   </header>
 
   <main>
