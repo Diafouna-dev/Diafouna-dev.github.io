@@ -6,6 +6,7 @@
   <meta name="description" content="Diafouna — site web d'informations africaines">
   <title>Diafouna.com — La voix d’une Afrique qui avance</title>
   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/style2.css">
 </head>
 
 <body>
