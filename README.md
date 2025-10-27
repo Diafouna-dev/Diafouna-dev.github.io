@@ -19,8 +19,8 @@
     </p>
 
     <nav>
-      <ul>
-        <li><a href="#politique">Politique</a></li>
+       <ul>
+        <li><a href="page2.html" target="_blank">Politique</a></li>
         <li><a href="#economie">Économie</a></li>
         <li><a href="#societe">Société</a></li>
         <li><a href="#culture">Culture</a></li>
