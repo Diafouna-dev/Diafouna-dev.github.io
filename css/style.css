@@ -51,31 +51,3 @@ position: relative;
 bottom: 0;
 width: 100%;
 }
-.galerie {
-display: flex;
-flex-direction: column;
-gap: 20px;
-}
-.figure-container img {
-width: 100%;
-display: block;
-margin-bottom: 10px;
-}
-.figure-info {
-margin-top: auto;
-background-color: #f9f9f9;
-padding: 15px;
-border-top: 1px solid #ccc;
-text-align: center;
-}
-h1,h2{
-    text-align: center;
-}
-p{
-    text-align: center;
-    font-size: 30px;
-}
-h1{
-    font-size: 40px;
-}
-
